@@ -1,1 +1,2 @@
 Hola este es mi primer archivo en la plataforma de Git
+Hola este es mi segundo mensaje
